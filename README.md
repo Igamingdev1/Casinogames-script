@@ -3,6 +3,7 @@
  
 <img  src="./plinko.png" />
 <img  src="./crash.png" />
+<img  src="./mine.png" />
 <img  src="./coinflip.png" />
 <img  src="assets/3.png" />
 <img  src="assets/4.png" />
